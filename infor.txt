@@ -1,0 +1,33 @@
+		------CLASS L6------
+
+Name:		ID:		GPA:
+Kiet		22		9
+		------CLASS L7------
+
+Name:		ID:		GPA:
+Tai		33		8
+		------CLASS L8------
+
+Name:		ID:		GPA:
+
+No student in the class L8!!
+		------CLASS L9------
+
+Name:		ID:		GPA:
+
+No student in the class L9!!
+		------CLASS L10------
+
+Name:		ID:		GPA:
+
+No student in the class L10!!
+		------CLASS L11------
+
+Name:		ID:		GPA:
+
+No student in the class L11!!
+		------CLASS L12------
+
+Name:		ID:		GPA:
+
+No student in the class L12!!

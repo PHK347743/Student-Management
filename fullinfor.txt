@@ -1,0 +1,59 @@
+		------CLASS L6------
+
+Name: Kiet
+ID: 22
+Sex: M
+Class: L6
+Point of geography : 9
+Point of math : 9
+Point of history : 9
+Point of english : 9
+Point of literary : 9
+Point of physical : 9
+Point of chemical: : 9
+Point of information : 9
+Point of fitness : 9
+Point of biological : 9
+Point of civiceducation : 9
+Point of defense : 9
+Point of technology : 9
+GPA: 9
+Rank: Good
+Conduct: K
+		------CLASS L7------
+
+Name: Tai
+ID: 33
+Sex: F
+Class: L7
+Point of geography : 8
+Point of math : 8
+Point of history : 8
+Point of english : 8
+Point of literary : 8
+Point of physical : 8
+Point of chemical: : 8
+Point of information : 8
+Point of fitness : 8
+Point of biological : 8
+Point of civiceducation : 8
+Point of defense : 8
+Point of technology : 8
+GPA: 8
+Rank: Good
+Conduct: K
+		------CLASS L8------
+
+No student in the class L8!!
+		------CLASS L9------
+
+No student in the class L9!!
+		------CLASS L10------
+
+No student in the class L10!!
+		------CLASS L11------
+
+No student in the class L11!!
+		------CLASS L12------
+
+No student in the class L12!!
